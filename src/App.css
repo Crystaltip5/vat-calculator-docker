@@ -4,7 +4,7 @@
 }
 
 .colour-border{
-  border: 3px solid magenta;
+  border: 3px solid blueviolet;
   padding: 10px;
 }
 
@@ -14,5 +14,5 @@
 
 body{
   padding: 10px;
-  background-color: blueviolet;
+  background-color: yellowgreen;
 }
