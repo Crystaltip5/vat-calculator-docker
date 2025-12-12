@@ -1,0 +1,2 @@
+image: lotties/vat:<+pipeline.sequenceId>
+replicas: 1
